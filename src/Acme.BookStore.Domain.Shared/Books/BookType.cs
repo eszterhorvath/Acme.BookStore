@@ -10,6 +10,8 @@
         Horror,
         Science,
         ScienceFiction,
-        Poetry
+        Poetry,
+        Novel,
+        Tragedy
     }
 }
